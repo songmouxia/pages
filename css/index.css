@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+}
+html{
+	font-size: 20px;
+}
+.tab{
+	display:none;
+	clear:both;
+	height:10rem;
+}
+.tabli{
+	list-style:none;
+	float:left;
+    padding:0.3rem;
+	margin-top:0.2rem;
+	border:1px solid #ccc;
+}
+.tabli:hover{
+	cursor:pointer;
+}
+.checkedTabli{
+	background: rgba(33,222,133,0.4);
+	color:red;
+}
+.checkedtab{
+	margin-left: 5px;
+	background: rgba(33,222,133,0.4);
+	border-radius: 0.1rem;
+	display:block;
+}
