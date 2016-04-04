@@ -1,5 +1,5 @@
-Tab切换组件，jquery组件
 
+#Tab切换组件，jquery组件
 应用demo ：index.js
   
     <div class="etabs" id="show">
